@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shahaf Noked</h1>
-<h3 align="center">I’m a full-stack developer with a strong foundation in core web technologies like JavaScript, HTML, and CSS. I specialize in both front-end (React, Vue) and back-end (Node.js, Express, databases) development, crafting responsive and scalable solutions. Passionate about building end-to-end applications, I’m committed to continuous learning and staying ahead of industry trends. I thrive on transforming complex challenges into clean, functional code, and I’m excited to contribute to impactful projects.</h3>
+<h3 align="left">
+    I’m a full-stack developer with a strong foundation in core web technologies like JavaScript, HTML, and CSS. <br>
+    I specialize in both front-end (React, Vue) and back-end (Node.js, Express, databases) development, crafting responsive and scalable solutions. <br> <br>
+    Passionate about building end-to-end applications, I’m committed to continuous learning and staying ahead of industry trends.
+    I thrive on transforming complex challenges into clean, functional code, and I’m excited to contribute to impactful projects.
+</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
